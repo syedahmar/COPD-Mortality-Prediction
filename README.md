@@ -1,3 +1,7 @@
+Citation: TBA
+Shared under a Creative Commons Licence
+
+
 # COPD-Mortality-Prediction
 
 This repository shows the list of R code files that were used to undertake the main analysis. This code, however, requires data which needs to be requested 
