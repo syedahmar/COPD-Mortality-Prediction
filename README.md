@@ -1,4 +1,5 @@
-Citation: TBA
+Citation: Shah, Syed A., Bright I. Nwaru, Aziz Sheikh, Colin R. Simpson, and Daniel Kotz. "Development and validation of a multivariable mortality risk prediction model for COPD in primary care." npj Primary Care Respiratory Medicine 32, no. 1 (2022): 1-7.
+Link: https://www.nature.com/articles/s41533-022-00280-0
 Shared under a Creative Commons Licence
 
 
